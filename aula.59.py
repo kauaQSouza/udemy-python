@@ -1,4 +1,4 @@
 condicao = False
 
 while condicao:
-    print("te amo")
+    print("te amo muito")

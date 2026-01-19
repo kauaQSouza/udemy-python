@@ -1,6 +1,6 @@
 #Aula 55
 
-entrada = input("Digite um numero inteiro: ")
+entrada = input("Digite um numero INTEIRO: ")
 
 if entrada.isdigit():
     entrada_int = int(entrada)
